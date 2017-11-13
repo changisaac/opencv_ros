@@ -1,3 +1,5 @@
+//have astra_launch astra.launch running
+
 #include <ros/ros.h>
 //used to subscribe and publish images
 #include <image_transport/image_transport.h>
