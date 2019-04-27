@@ -1,3 +1,5 @@
-ROS Package handling communication and data processing with opencv in differnt use cases.
+ROS Package handling communication and data processing with opencv in different use cases.
 
-image_converter - loads in depth image array from astra 3D cam and outputs depth at certan pixel
+Packages:
+
+1. image_converter - loads in depth image array from astra 3D cam and outputs depth at certan pixel
